@@ -17,7 +17,7 @@ In the 2000s, illegal conversion violations remained concentrated in Queens but 
 <img width="1065" height="657" alt="image" src="https://github.com/user-attachments/assets/ca60d968-367a-4323-9f8a-b42c6ab78100" />
 
 #### 2010s
-In the 2010s, illegal conversion violations shifted decisively to the inner boroughs, with Brooklyn (35.5%) and Manhattan (26.5%) overtaking Queens (23.4%), while The Bronx accounted for 10.6%. This marks a clear reversal from the 2000s, driven by rising rents, gentrification, and stronger enforcement in dense, high-demand areas where landlords had greater incentive to create additional units within existing buildings.
+In the 2010s, illegal conversion violations shifted decisively to the inner boroughs, with Brooklyn (35.5%) and Manhattan (26.5%) overtaking Queens (23.4%), while The Bronx accounted for 10.6%. This reversal from the 2000s was driven by rising rents, gentrification, and stronger enforcement in dense, high-demand areas, alongside the growth of short-term rental platforms like Airbnb, which created additional financial incentives to subdivide or repurpose units—sometimes illegally—particularly in high-tourism neighborhoods, further concentrating violations in the inner boroughs.
 
 <img width="1061" height="652" alt="image" src="https://github.com/user-attachments/assets/fd75adb7-cc60-448e-8c36-84136239b52a" />
 
