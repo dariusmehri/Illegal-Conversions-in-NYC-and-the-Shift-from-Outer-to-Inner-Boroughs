@@ -11,7 +11,7 @@ In the 1990s, illegal conversion violations were overwhelmingly concentrated in 
 
 <img width="1068" height="646" alt="image" src="https://github.com/user-attachments/assets/e02ea5d9-47be-4765-80fc-3fcb00f79ea8" />
 
-2000s
+#### 2000s
 In the 2000s, illegal conversion violations remained concentrated in Queens but declined to 64%, while Brooklyn rose sharply to 23.6%, with smaller shares in The Bronx (6.3%) and Manhattan (4.6%), indicating a clear shift from an almost exclusively Queens-driven pattern in the 1990s toward broader distribution across denser boroughs as housing demand and redevelopment intensified.
 
 <img width="1065" height="657" alt="image" src="https://github.com/user-attachments/assets/ca60d968-367a-4323-9f8a-b42c6ab78100" />
