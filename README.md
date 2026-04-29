@@ -1,2 +1,6 @@
 ## Illegal Conversions in NYC: The Shift from Outer to Inner Boroughs (1990s-Present)
 Illegal conversions are unauthorized alterations to a building—such as turning basements, attics, or single-family homes into multiple apartments—without approval from the New York City Department of Buildings, and often in violation of safety regulations.These conversions frequently create overcrowded, substandard living conditions with unsafe electrical systems, inadequate ventilation, and blocked or insufficient exits. They also produce layouts that are unknown to responders from the Fire Department of the City of New York, delaying emergency response and increasing risk during any incident—not just fires, but medical emergencies, structural issues, and other hazards. Compromised living conditions significantly elevates the likelihood of serious injury or death, making illegal conversions a critical indicator when identifying high-risk buildings.
+
+The data for this project was sourced from NYC Open Data and analyzed using a combination of Python, Power BI, and generative AI to clean, model, and visualize insights.
+
+
