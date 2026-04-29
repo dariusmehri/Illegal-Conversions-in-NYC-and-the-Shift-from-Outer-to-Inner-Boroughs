@@ -22,6 +22,7 @@ In the 2010s, illegal conversion violations shifted decisively to the inner boro
 <img width="1061" height="652" alt="image" src="https://github.com/user-attachments/assets/fd75adb7-cc60-448e-8c36-84136239b52a" />
 
 #### 2020s
+By the 2020s, illegal conversion violations became more evenly distributed across boroughs, with Brooklyn still leading at 35.3%, but Queens rebounding to 27.6% and overtaking Manhattan (21.6%), followed by The Bronx (13%) and Staten Island (2.6%). This pattern suggests a rebalancing of housing pressure, where sustained affordability challenges and enforcement efforts have spread illegal conversion activity across both outer and inner boroughs rather than being concentrated in just one area.
 
 <img width="1064" height="660" alt="image" src="https://github.com/user-attachments/assets/5b3f2ba2-3d88-40d0-a4c1-64c9f0745678" />
 
