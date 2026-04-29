@@ -16,8 +16,14 @@ In the 2000s, illegal conversion violations remained concentrated in Queens but 
 
 <img width="1065" height="657" alt="image" src="https://github.com/user-attachments/assets/ca60d968-367a-4323-9f8a-b42c6ab78100" />
 
-#### 2020s
+#### 2010s
 In the 2010s, illegal conversion violations shifted decisively to the inner boroughs, with Brooklyn (35.5%) and Manhattan (26.5%) overtaking Queens (23.4%), while The Bronx accounted for 10.6%. This marks a clear reversal from the 2000s, driven by rising rents, gentrification, and stronger enforcement in dense, high-demand areas where landlords had greater incentive to create additional units within existing buildings.
 
 <img width="1061" height="652" alt="image" src="https://github.com/user-attachments/assets/fd75adb7-cc60-448e-8c36-84136239b52a" />
+
+#### 2020s
+
+<img width="1064" height="660" alt="image" src="https://github.com/user-attachments/assets/5b3f2ba2-3d88-40d0-a4c1-64c9f0745678" />
+
+
 
