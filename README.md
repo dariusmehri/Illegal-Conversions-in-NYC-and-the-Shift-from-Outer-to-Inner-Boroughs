@@ -8,4 +8,5 @@ Illegal conversion violations shifted from outer boroughs like Queens in the 199
 
 #### 1990s
 
+<img width="1068" height="646" alt="image" src="https://github.com/user-attachments/assets/e02ea5d9-47be-4765-80fc-3fcb00f79ea8" />
 
