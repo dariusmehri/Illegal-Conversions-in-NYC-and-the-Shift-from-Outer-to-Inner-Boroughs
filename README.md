@@ -3,4 +3,7 @@ Illegal conversions are unauthorized alterations to a building—such as turning
 
 The data for this project was sourced from NYC Open Data and analyzed using a combination of Python, Power BI, and generative AI to clean, model, and visualize insights.
 
+### The Shift from Outer to Inner Boroughs
+Illegal conversion violations shifted from outer boroughs like Queens in the 1990s to inner boroughs like Brooklyn and Manhattan by the 2010s due to rising housing costs, gentrification, and stronger enforcement in dense areas. Earlier, conversions were easier in low-density neighborhoods with one- and two-family homes, while later they became more common in high-demand areas where landlords had greater financial incentive to create additional units within existing buildings. At the same time, agencies like the New York City Department of Buildings increasingly focused on higher-risk, higher-density environments, making illegal conversions both more prevalent and more visible in the inner boroughs.
+
 
