@@ -11,7 +11,7 @@ In the 1990s, illegal conversion violations were overwhelmingly concentrated in 
 
 <img width="1068" height="646" alt="image" src="https://github.com/user-attachments/assets/e02ea5d9-47be-4765-80fc-3fcb00f79ea8" />
 
-<img width="901" height="566" alt="image" src="https://github.com/user-attachments/assets/b9db24ce-17b0-413e-b899-ca0ad3a8fee1" />
+
 
 
 
