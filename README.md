@@ -42,7 +42,7 @@ In the 2010s, illegal conversion violations shifted decisively to the inner boro
 
 Illegal conversions in the 2010s reflect a clear shift toward high-density, rent-driven activity concentrated in Manhattan and Brooklyn neighborhoods, including Chelsea/Clinton, the Lower East Side, Bed-Stuy, and East New York, with Queens locations such as Flushing remaining secondary hotspots. Building class patterns show a strong presence of walk-up apartments in both Brooklyn (12%) and Manhattan (11%), alongside smaller but notable shares of two-family homes and emerging activity in elevator buildings (5% in Manhattan), indicating that conversions are increasingly occurring within larger, more regulated structures. 
 
-This shift is reinforced by building age, with 58% of affected properties constructed before 1939, highlighting the role of pre-war housing stock with flexible layouts and aging infrastructure. Unlike earlier decades characterized by the expansion of units in lower-density homes, the 2010s are defined by the internal subdivision and overcrowding of existing multifamily buildings, significantly increasing fire and life safety risks due to higher occupant loads and constrained egress.
+This shift is reinforced by building age, with pre-war buildings (1900-1939) representing 58% of affected properties, highlighting the role of pre-war housing stock with flexible layouts and aging infrastructure. Unlike earlier decades characterized by the expansion of units in lower-density homes, the 2010s are defined by the internal subdivision and overcrowding of existing multifamily buildings, significantly increasing fire and life safety risks due to higher occupant loads and constrained egress.
 
 image here
 
