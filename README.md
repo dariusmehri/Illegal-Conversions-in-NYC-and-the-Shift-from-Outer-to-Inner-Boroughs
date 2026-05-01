@@ -58,5 +58,7 @@ Building class patterns show a convergence around the most adaptable structures,
 
 This trend is reinforced by building age, with the majority of affected properties constructed between 1900 and 1939, underscoring the continued role of aging pre-war housing stock. Overall, the 2020s represent a stabilized, citywide system of illegal conversions that combines both horizontal expansion and internal subdivision, while introducing new risks associated with mixed-use and commercial building adaptations.
 
+In the 2020s, while illegal conversions have become a more citywide issue Staten Island still shows relatively low levels of activity, largely because it lacks the dense, older, and easily subdivided housing stock that drives conversions elsewhere. Its predominance of newer, detached homes, combined with lower rental demand, weaker transit access, and fewer complaint-driven inspections, continues to limit both the occurrence and detection of illegal conversions compared to the other boroughs.
+
 image here
 
