@@ -52,5 +52,11 @@ By the 2020s, illegal conversion violations became more evenly distributed acros
 
 <img width="1064" height="660" alt="image" src="https://github.com/user-attachments/assets/5b3f2ba2-3d88-40d0-a4c1-64c9f0745678" />
 
+Illegal conversions in the 2020s reflect a mature and fully distributed pattern across New York City, with activity spanning Queens, Brooklyn, and Manhattan. While Flushing and Bay Terrace in Queens remain the leading hotspot, neighborhoods such as Bed-Stuy in Brooklyn and core Manhattan areas including Chelsea/Clinton, Midtown, and the Lower East Side also rank among the highest. 
 
+Building class patterns show a convergence around the most adaptable structures, with two-family homes and walk-up apartments accounting for 39% of cases across boroughs, alongside emerging activity in mixed-use buildings (6.1% in Brooklyn) and store buildings (4.6% in Queens), indicating a growing extension of residential use into commercial spaces. 
+
+This trend is reinforced by building age, with the majority of affected properties constructed between 1900 and 1939, underscoring the continued role of aging pre-war housing stock. Overall, the 2020s represent a stabilized, citywide system of illegal conversions that combines both horizontal expansion and internal subdivision, while introducing new risks associated with mixed-use and commercial building adaptations.
+
+image here
 
