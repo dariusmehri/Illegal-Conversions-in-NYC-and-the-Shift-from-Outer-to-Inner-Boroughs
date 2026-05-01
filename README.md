@@ -13,7 +13,7 @@ In the 1990s, illegal conversion violations were overwhelmingly concentrated in 
 
 Illegal conversions in the 1990s were widespread across New York City, with most community districts exhibiting elevated levels of activity. The majority of affected buildings were one- and two-family homes and walk-up apartments, accounting for roughly 74% of cases, highlighting the role of structurally adaptable, lower-density housing in enabling informal unit expansion. Walk-up apartments in particular were attractive targets because units could be subdivided at relatively low cost by leveraging existing plumbing lines, electrical systems, and stacked layouts, avoiding the need for major structural alterations. Building age further reinforces this pattern, with approximately 45% of properties constructed before 1939 and nearly 70% built prior to 1960. These older structures, not designed for modern occupancy or infrastructure demands, were particularly vulnerable to unsafe modifications. Taken together, the data suggests that illegal conversions during this period were not isolated incidents, but rather a broad, systemic response to housing demand, concentrated in aging residential stock and carrying significant implications for fire and life safety.
 
-<image here>
+image here
 
 
 
