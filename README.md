@@ -23,6 +23,10 @@ In the 2000s, illegal conversion violations remained concentrated in Queens but 
 
 <img width="1065" height="657" alt="image" src="https://github.com/user-attachments/assets/ca60d968-367a-4323-9f8a-b42c6ab78100" />
 
+While one- and two-family homes and walk-up apartments still accounted for a significant share of activity—approximately 43% in Queens—the dominance of these building types declined compared to the 1990s, indicating a gradual diversification of conversion patterns. At the same time, Brooklyn neighborhoods such as Williamsburg and Greenpoint began to appear among the top hotspots, with 17% of affected buildings consisting of two-family homes and walk-up apartments. This reflects the early stages of gentrification-driven pressure, where rising rents incentivized the internal subdivision of existing units rather than the horizontal expansion more common in Queens. Building age patterns further support this transition, with Queens showing a reduced share of pre-war buildings (33%), while Brooklyn’s pre-war stock (19%) provided a foundation for higher-density modifications. Overall, the 2000s represent a transitional period in which traditional outer-borough conversion patterns persisted, while new, density-driven dynamics began to take hold in emerging inner-borough markets.
+
+image here
+
 #### 2010s
 In the 2010s, illegal conversion violations shifted decisively to the inner boroughs, with Brooklyn (35.5%) and Manhattan (26.5%) overtaking Queens (23.4%), while The Bronx accounted for 10.6%. This reversal from the 2000s was driven by rising rents, gentrification, and stronger enforcement in dense, high-demand areas, alongside the growth of short-term rental platforms like Airbnb, which created additional financial incentives to subdivide or repurpose units—sometimes illegally—particularly in high-tourism neighborhoods, further concentrating violations in the inner boroughs.
 
