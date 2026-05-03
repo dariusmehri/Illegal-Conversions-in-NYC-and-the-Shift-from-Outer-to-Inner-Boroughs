@@ -5,7 +5,7 @@ Illegal conversions have become a critical issue in New York City due to their d
 
 Enforcement is largely complaint-driven, with the majority of cases identified through 311 reports, FDNY incident responses, and follow-up inspections by the Department of Buildings, meaning that many hazardous conditions may remain undetected until they generate complaints or emergencies [3].
 
-The data for this project consist of New York City Department of Buildings ECB violations, filtered for hazardous illegal conversions, and the Department of City Planning PLUTO dataset sourced from NYC Open Data and analyzed using Python, Power BI, and generative AI to clean and visualize insights.
+The data for this project consist of New York City Department of Buildings ECB violations, filtered for hazardous illegal conversions, and the Department of City Planning PLUTO dataset sourced from NYC Open Data and analyzed using Python, Power BI, and generative AI to clean and visualize insights [5][6].
 
 ### The Shift from Outer to Inner Boroughs
 Illegal conversion violations shifted from outer boroughs like Queens in the 1990s to inner boroughs like Brooklyn and Manhattan by the 2010s due to rising housing costs, gentrification, and stronger enforcement in dense areas. Earlier, conversions were easier in low-density neighborhoods with one- and two-family homes, while later they became more common in high-demand areas where landlords had greater financial incentive to create additional units within existing buildings. At the same time, agencies like the New York City Department of Buildings increasingly focused on higher-risk, higher-density environments, making illegal conversions both more prevalent and more visible in the inner boroughs [4].
@@ -70,3 +70,9 @@ image here
 [3] https://portal.311.nyc.gov/article/?kanumber=KA-02025
 
 [4] New York's Housing Underground: A Refuge and a Resource: https://chhayacdc.org/wp-content/uploads/2019/11/New-Yorks-Housing-Underground.pdf?utm_source=chatgpt.com
+
+[5] DOB ECB Violations, NYC Open Data: https://data.cityofnewyork.us/Housing-Development/DOB-ECB-Violations/6bgk-3dad/about_data
+
+[6] Department of City Planning PLUTO Data: https://www.nyc.gov/content/planning/pages/resources/datasets/mappluto-pluto-change
+
+
