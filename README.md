@@ -69,4 +69,4 @@ image here
 
 [3] https://portal.311.nyc.gov/article/?kanumber=KA-02025
 
-[4] chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://chhayacdc.org/wp-content/uploads/2019/11/New-Yorks-Housing-Underground.pdf?utm_source=chatgpt.com
+[4] New York's Housing Underground: A Refuge and a Resource: https://chhayacdc.org/wp-content/uploads/2019/11/New-Yorks-Housing-Underground.pdf?utm_source=chatgpt.com
