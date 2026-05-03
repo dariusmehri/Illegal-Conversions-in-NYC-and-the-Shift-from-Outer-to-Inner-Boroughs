@@ -62,7 +62,7 @@ In the 2020s, while illegal conversions have become a more citywide issue Staten
 
 image here
 
-### Citatiions
+### Citations
 [1] https://www.nyc.gov/site/buildings/tenant/illegal-conversion.page
 
 [2] https://www.nyc.gov/site/hpd/services-and-information/basement-and-cellar.page
