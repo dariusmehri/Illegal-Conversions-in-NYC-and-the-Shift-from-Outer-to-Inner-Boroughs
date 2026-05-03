@@ -1,7 +1,7 @@
 ## Illegal Conversions in NYC: The Shift from Outer to Inner Boroughs (1990s-Present)
-Illegal conversions are unauthorized alterations to a building—such as turning basements, attics, or single-family homes into multiple apartments—without approval from the New York City Department of Buildings, and often in violation of safety regulations. These conversions frequently create overcrowded, substandard living conditions with unsafe electrical systems, inadequate ventilation, and blocked or insufficient exits. They also produce layouts that are unknown to responders from the Fire Department of the City of New York, delaying emergency response and increasing risk during any incident—not just fires, but medical emergencies, structural issues, and other hazards. Compromised living conditions significantly elevates the likelihood of serious injury or death, making illegal conversions a critical indicator when identifying high-risk buildings.
+Illegal conversions are unauthorized alterations to a building—such as turning basements, attics, or single-family homes into multiple apartments—without approval from the New York City Department of Buildings, and often in violation of safety regulations. These conversions frequently create overcrowded, substandard living conditions with unsafe electrical systems, inadequate ventilation, and blocked or insufficient exits. They also produce layouts that are unknown to responders from the Fire Department of the City of New York, delaying emergency response and increasing risk during any incident—not just fires, but medical emergencies, structural issues, and other hazards. Compromised living conditions significantly elevates the likelihood of serious injury or death, making illegal conversions a critical indicator when identifying high-risk buildings [1].
 
-Illegal conversions have become a critical issue in New York City due to their direct connection to housing affordability pressures and their significant implications for fire and life safety. As demand for housing has outpaced supply, particularly in lower-density and gentrifying neighborhoods, property owners and tenants have increasingly created unpermitted units within existing buildings, often in structures not designed for additional occupancy. 
+Illegal conversions have become a critical issue in New York City due to their direct connection to housing affordability pressures and their significant implications for fire and life safety. As demand for housing has outpaced supply, particularly in lower-density and gentrifying neighborhoods, property owners and tenants have increasingly created unpermitted units within existing buildings, often in structures not designed for additional occupancy [2]. 
 
 Enforcement is largely complaint-driven, with the majority of cases identified through 311 reports, FDNY incident responses, and follow-up inspections by the Department of Buildings, meaning that many hazardous conditions may remain undetected until they generate complaints or emergencies.
 
@@ -61,4 +61,9 @@ This trend is reinforced by building age, with the majority of affected properti
 In the 2020s, while illegal conversions have become a more citywide issue Staten Island still shows relatively low levels of activity, largely because it lacks the dense, older, and easily subdivided housing stock that drives conversions elsewhere. Its predominance of newer, detached homes, combined with lower rental demand, weaker transit access, and fewer complaint-driven inspections, continues to limit both the occurrence and detection of illegal conversions compared to the other boroughs.
 
 image here
+
+### Citatiions
+[1] https://www.nyc.gov/site/buildings/tenant/illegal-conversion.page
+
+[2] https://www.nyc.gov/site/hpd/services-and-information/basement-and-cellar.page
 
