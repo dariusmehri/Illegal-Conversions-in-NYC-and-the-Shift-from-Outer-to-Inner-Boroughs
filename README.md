@@ -8,7 +8,7 @@ Enforcement is largely complaint-driven, with the majority of cases identified t
 The data for this project consist of New York City Department of Buildings ECB violations, filtered for hazardous illegal conversions, and the Department of City Planning PLUTO dataset sourced from NYC Open Data and analyzed using Python, Power BI, and generative AI to clean and visualize insights.
 
 ### The Shift from Outer to Inner Boroughs
-Illegal conversion violations shifted from outer boroughs like Queens in the 1990s to inner boroughs like Brooklyn and Manhattan by the 2010s due to rising housing costs, gentrification, and stronger enforcement in dense areas. Earlier, conversions were easier in low-density neighborhoods with one- and two-family homes, while later they became more common in high-demand areas where landlords had greater financial incentive to create additional units within existing buildings. At the same time, agencies like the New York City Department of Buildings increasingly focused on higher-risk, higher-density environments, making illegal conversions both more prevalent and more visible in the inner boroughs.
+Illegal conversion violations shifted from outer boroughs like Queens in the 1990s to inner boroughs like Brooklyn and Manhattan by the 2010s due to rising housing costs, gentrification, and stronger enforcement in dense areas. Earlier, conversions were easier in low-density neighborhoods with one- and two-family homes, while later they became more common in high-demand areas where landlords had greater financial incentive to create additional units within existing buildings. At the same time, agencies like the New York City Department of Buildings increasingly focused on higher-risk, higher-density environments, making illegal conversions both more prevalent and more visible in the inner boroughs [4].
 
 #### 1990s
 In the 1990s, illegal conversion violations were overwhelmingly concentrated in Queens (87.7%), with much smaller shares in Brooklyn (6.2%) and The Bronx (5.8%), and almost none in Manhattan and Staten Island (0.1%). This pattern reflects how illegal conversions at the time were largely driven by the abundance of one- and two-family homes in Queens, where it was easier to subdivide properties to meet growing housing demand, while denser boroughs saw far fewer such violations.
@@ -69,3 +69,4 @@ image here
 
 [3] https://portal.311.nyc.gov/article/?kanumber=KA-02025
 
+[4] chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://chhayacdc.org/wp-content/uploads/2019/11/New-Yorks-Housing-Underground.pdf?utm_source=chatgpt.com
