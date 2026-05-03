@@ -3,7 +3,7 @@ Illegal conversions are unauthorized alterations to a building—such as turning
 
 Illegal conversions have become a critical issue in New York City due to their direct connection to housing affordability pressures and their significant implications for fire and life safety. As demand for housing has outpaced supply, particularly in lower-density and gentrifying neighborhoods, property owners and tenants have increasingly created unpermitted units within existing buildings, often in structures not designed for additional occupancy [2]. 
 
-Enforcement is largely complaint-driven, with the majority of cases identified through 311 reports, FDNY incident responses, and follow-up inspections by the Department of Buildings, meaning that many hazardous conditions may remain undetected until they generate complaints or emergencies.
+Enforcement is largely complaint-driven, with the majority of cases identified through 311 reports, FDNY incident responses, and follow-up inspections by the Department of Buildings, meaning that many hazardous conditions may remain undetected until they generate complaints or emergencies [3].
 
 The data for this project consist of New York City Department of Buildings ECB violations, filtered for hazardous illegal conversions, and the Department of City Planning PLUTO dataset sourced from NYC Open Data and analyzed using Python, Power BI, and generative AI to clean and visualize insights.
 
@@ -66,4 +66,6 @@ image here
 [1] https://www.nyc.gov/site/buildings/tenant/illegal-conversion.page
 
 [2] https://www.nyc.gov/site/hpd/services-and-information/basement-and-cellar.page
+
+[3] https://portal.311.nyc.gov/article/?kanumber=KA-02025
 
