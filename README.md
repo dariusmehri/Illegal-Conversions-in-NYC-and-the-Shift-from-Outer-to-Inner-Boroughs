@@ -60,7 +60,8 @@ This trend is reinforced by building age, with the majority of affected properti
 
 In the 2020s, while illegal conversions have become a more citywide issue Staten Island still shows relatively low levels of activity, largely because it lacks the dense, older, and easily subdivided housing stock that drives conversions elsewhere. Its predominance of newer, detached homes, combined with lower rental demand, weaker transit access, and fewer complaint-driven inspections, continues to limit both the occurrence and detection of illegal conversions compared to the other boroughs.
 
-image here
+<img width="1394" height="626" alt="image" src="https://github.com/user-attachments/assets/312ec98b-7468-4835-bbb7-53e1fad7f75b" />
+
 
 ### Citations
 [1] https://www.nyc.gov/site/buildings/tenant/illegal-conversion.page
