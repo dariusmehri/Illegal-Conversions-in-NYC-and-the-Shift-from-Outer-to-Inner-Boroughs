@@ -33,6 +33,8 @@ While one- and two-family homes and walk-up apartments still accounted for a sig
 
 Building age patterns further support this transition, with Queens showing a reduced share of pre-war buildings (33%), while Brooklyn’s pre-war stock (19%) provided a foundation for higher-density modifications. Overall, the 2000s represent a transitional period in which traditional outer-borough conversion patterns persisted, while new, density-driven dynamics began to take hold in emerging inner-borough markets.
 
+<br>
+
 <img width="1371" height="630" alt="image" src="https://github.com/user-attachments/assets/b1e48674-8bbc-43ae-95ef-b7ef5600c29f" />
 
 
@@ -45,6 +47,8 @@ In the 2010s, illegal conversion violations shifted decisively to the inner boro
 Illegal conversions in the 2010s reflect a clear shift toward high-density, rent-driven activity concentrated in Manhattan and Brooklyn neighborhoods, including Chelsea/Clinton, the Lower East Side, Bed-Stuy, and East New York, with Queens locations such as Flushing remaining secondary hotspots. Building class patterns show a strong presence of walk-up apartments in both Brooklyn (12%) and Manhattan (11%), alongside smaller but notable shares of two-family homes and emerging activity in elevator buildings (5% in Manhattan), indicating that conversions are increasingly occurring within larger, more regulated structures. 
 
 This shift is reinforced by building age, with pre-war buildings (1900-1939) representing 58% of affected properties, highlighting the role of pre-war housing stock with flexible layouts and aging infrastructure. Unlike earlier decades characterized by the expansion of units in lower-density homes, the 2010s are defined by the internal subdivision and overcrowding of existing multifamily buildings, significantly increasing fire and life safety risks due to higher occupant loads and constrained egress.
+
+<br>
 
 <img width="1399" height="614" alt="image" src="https://github.com/user-attachments/assets/8af2fc99-82b1-4f2f-873a-79fdb63be385" />
 
@@ -61,6 +65,8 @@ Building class patterns show a convergence around the most adaptable structures,
 This trend is reinforced by building age, with the majority of affected properties constructed between 1900 and 1939, underscoring the continued role of aging pre-war housing stock. Overall, the 2020s represent a stabilized, citywide system of illegal conversions that combines both horizontal expansion and internal subdivision, while introducing new risks associated with mixed-use and commercial building adaptations.
 
 In the 2020s, while illegal conversions have become a more citywide issue Staten Island still shows relatively low levels of activity, largely because it lacks the dense, older, and easily subdivided housing stock that drives conversions elsewhere. Its predominance of newer, detached homes, combined with lower rental demand, weaker transit access, and fewer complaint-driven inspections, continues to limit both the occurrence and detection of illegal conversions compared to the other boroughs.
+
+<br>
 
 <img width="1394" height="626" alt="image" src="https://github.com/user-attachments/assets/312ec98b-7468-4835-bbb7-53e1fad7f75b" />
 
