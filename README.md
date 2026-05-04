@@ -72,11 +72,11 @@ In the 2020s, while illegal conversions have become a more citywide issue Staten
 
 
 ### Citations
-[1] https://www.nyc.gov/site/buildings/tenant/illegal-conversion.page
+[1] NYC Department of Buildings, Illegal Conversions: https://www.nyc.gov/site/buildings/tenant/illegal-conversion.page
 
-[2] https://www.nyc.gov/site/hpd/services-and-information/basement-and-cellar.page
+[2] NYC Housing Preservation and Development, Building Safety: https://www.nyc.gov/site/hpd/services-and-information/basement-and-cellar.page
 
-[3] https://portal.311.nyc.gov/article/?kanumber=KA-02025
+[3] NYC 311, Building Conversion or Occupancy Complaints: https://portal.311.nyc.gov/article/?kanumber=KA-02025
 
 [4] New York's Housing Underground: A Refuge and a Resource: https://chhayacdc.org/wp-content/uploads/2019/11/New-Yorks-Housing-Underground.pdf?utm_source=chatgpt.com
 
