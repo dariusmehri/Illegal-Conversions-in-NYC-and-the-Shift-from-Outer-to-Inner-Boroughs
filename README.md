@@ -34,7 +34,8 @@ While one- and two-family homes and walk-up apartments still accounted for a sig
 
 Building age patterns further support this transition, with Queens showing a reduced share of pre-war buildings (33%), while Brooklyn’s pre-war stock (19%) provided a foundation for higher-density modifications. Overall, the 2000s represent a transitional period in which traditional outer-borough conversion patterns persisted, while new, density-driven dynamics began to take hold in emerging inner-borough markets.
 
-<img width="1195" height="531" alt="image" src="https://github.com/user-attachments/assets/2f00ceb7-fe60-4dfb-9886-08b337fe6d23" />
+<img width="1189" height="531" alt="image" src="https://github.com/user-attachments/assets/691aa709-7a9b-4a1c-b40d-3e05a80807e6" />
+
 
 
 #### 2010s
