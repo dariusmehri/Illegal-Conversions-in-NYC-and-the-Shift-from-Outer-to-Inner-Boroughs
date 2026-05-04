@@ -22,9 +22,6 @@ Building age further reinforces this pattern, with approximately 45% of properti
 <img width="1324" height="575" alt="image" src="https://github.com/user-attachments/assets/050543ba-386f-468d-b2ef-22643661717e" />
 
 
-
-
-
 #### 2000s
 In the 2000s, illegal conversion violations remained concentrated in Queens but declined to 64%, while Brooklyn rose sharply to 23.6%, with smaller shares in The Bronx (6.3%) and Manhattan (4.6%), indicating a clear shift from an almost exclusively Queens-driven pattern in the 1990s toward broader distribution across denser boroughs as housing demand and redevelopment intensified.
 
@@ -47,7 +44,7 @@ Illegal conversions in the 2010s reflect a clear shift toward high-density, rent
 
 This shift is reinforced by building age, with pre-war buildings (1900-1939) representing 58% of affected properties, highlighting the role of pre-war housing stock with flexible layouts and aging infrastructure. Unlike earlier decades characterized by the expansion of units in lower-density homes, the 2010s are defined by the internal subdivision and overcrowding of existing multifamily buildings, significantly increasing fire and life safety risks due to higher occupant loads and constrained egress.
 
-image here
+<img width="1399" height="614" alt="image" src="https://github.com/user-attachments/assets/8af2fc99-82b1-4f2f-873a-79fdb63be385" />
 
 
 #### 2020s
