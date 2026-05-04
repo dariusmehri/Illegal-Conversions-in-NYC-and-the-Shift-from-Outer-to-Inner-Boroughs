@@ -34,7 +34,8 @@ While one- and two-family homes and walk-up apartments still accounted for a sig
 
 Building age patterns further support this transition, with Queens showing a reduced share of pre-war buildings (33%), while Brooklyn’s pre-war stock (19%) provided a foundation for higher-density modifications. Overall, the 2000s represent a transitional period in which traditional outer-borough conversion patterns persisted, while new, density-driven dynamics began to take hold in emerging inner-borough markets.
 
-image here
+<img width="1195" height="531" alt="image" src="https://github.com/user-attachments/assets/2f00ceb7-fe60-4dfb-9886-08b337fe6d23" />
+
 
 #### 2010s
 In the 2010s, illegal conversion violations shifted decisively to the inner boroughs, with Brooklyn (35.5%) and Manhattan (26.5%) overtaking Queens (23.4%), while The Bronx accounted for 10.6%. This reversal from the 2000s was driven by rising rents, gentrification, and stronger enforcement in dense, high-demand areas, alongside the growth of short-term rental platforms like Airbnb, which created additional financial incentives to subdivide or repurpose units—sometimes illegally—particularly in high-tourism neighborhoods, further concentrating violations in the inner boroughs.
