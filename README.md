@@ -19,6 +19,8 @@ The majority of affected buildings in the 1990s were one- and two-family homes a
 
 Building age further reinforces this pattern, with approximately 45% of properties constructed before 1939 and nearly 70% built prior to 1960. These older structures, not designed for modern occupancy or infrastructure demands, were particularly vulnerable to unsafe modifications. Taken together, the data suggests that illegal conversions during this period were not isolated incidents, but rather a broad, systemic response to housing demand, concentrated in aging residential stock and carrying significant implications for fire and life safety.
 
+<br>
+
 <img width="1324" height="575" alt="image" src="https://github.com/user-attachments/assets/050543ba-386f-468d-b2ef-22643661717e" />
 
 
