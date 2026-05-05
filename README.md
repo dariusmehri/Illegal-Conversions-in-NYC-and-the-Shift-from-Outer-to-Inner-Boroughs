@@ -73,7 +73,8 @@ In the 2020s, while illegal conversions have become a more citywide issue Staten
 
 <br>
 
-<img width="1394" height="626" alt="image" src="https://github.com/user-attachments/assets/312ec98b-7468-4835-bbb7-53e1fad7f75b" />
+<img width="1182" height="505" alt="image" src="https://github.com/user-attachments/assets/c1e481bb-71ee-4f54-8582-e2eac44857b3" />
+
 
 
 ### Citations
