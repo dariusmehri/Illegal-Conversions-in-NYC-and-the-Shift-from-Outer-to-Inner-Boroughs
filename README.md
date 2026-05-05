@@ -12,7 +12,9 @@ Hazardous illegal conversion violations have increased significantly over time, 
 
 <img width="526" height="318" alt="image" src="https://github.com/user-attachments/assets/66a9fee1-2403-4d01-89a1-0bc72de29b3f" align='center' />
 
-
+<p align="center">
+  <img src="[your-image-url.png](https://github.com/user-attachments/assets/66a9fee1-2403-4d01-89a1-0bc72de29b3f)" width="500"/>
+</p>
 
 ### The Shift from Outer to Inner Boroughs
 Illegal conversion violations shifted from outer boroughs like Queens in the 1990s to inner boroughs like Brooklyn and Manhattan by the 2010s due to rising housing costs, gentrification, and stronger enforcement in dense areas. Earlier, conversions were easier in low-density neighborhoods with one- and two-family homes, while later they became more common in high-demand areas where landlords had greater financial incentive to create additional units within existing buildings. At the same time, agencies like the New York City Department of Buildings increasingly focused on higher-risk, higher-density environments, making illegal conversions both more prevalent and more visible in the inner boroughs [4].
