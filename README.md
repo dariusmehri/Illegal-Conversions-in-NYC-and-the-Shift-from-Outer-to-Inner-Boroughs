@@ -21,7 +21,9 @@ Building age further reinforces this pattern, with approximately 45% of properti
 
 <br>
 
-<img width="1424" height="625" alt="image" src="https://github.com/user-attachments/assets/050543ba-386f-468d-b2ef-22643661717e" />
+<img width="1292" height="573" alt="image" src="https://github.com/user-attachments/assets/4542254e-b1f1-403c-8a7d-0b0c39306807" />
+
+
 
 
 #### 2000s
