@@ -21,7 +21,8 @@ Building age further reinforces this pattern, with approximately 45% of properti
 
 <br>
 
-<img width="1292" height="573" alt="image" src="https://github.com/user-attachments/assets/4542254e-b1f1-403c-8a7d-0b0c39306807" />
+<img width="1190" height="486" alt="image" src="https://github.com/user-attachments/assets/53e3ba28-4f8b-45d2-af90-1eb998793cd0" />
+
 
 
 
