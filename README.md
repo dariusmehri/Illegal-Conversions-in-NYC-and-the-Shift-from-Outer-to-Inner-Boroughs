@@ -43,7 +43,8 @@ Building age patterns further support this transition, with Queens showing a red
 
 <br>
 
-<img width="1190" height="486" alt="image" src="https://github.com/user-attachments/assets/c573435b-7871-4874-919e-5e6ae8aadb0c" />
+<img width="1182" height="489" alt="image" src="https://github.com/user-attachments/assets/93bc950b-c9f8-4e78-a75d-15e57e83e33f" />
+
 
 
 
@@ -58,8 +59,8 @@ Illegal conversions in the 2010s reflect a clear shift toward high-density, rent
 This shift is reinforced by building age, with pre-war buildings (1900-1939) representing 58% of affected properties, highlighting the role of pre-war housing stock with flexible layouts and aging infrastructure. Unlike earlier decades characterized by the expansion of units in lower-density homes, the 2010s are defined by the internal subdivision and overcrowding of existing multifamily buildings, significantly increasing fire and life safety risks due to higher occupant loads and constrained egress.
 
 <br>
-<img width="1191" height="482" alt="image" src="https://github.com/user-attachments/assets/4c1ed1c4-420e-4625-ab68-fa80b6d4f6fd" />
 
+<img width="1183" height="479" alt="image" src="https://github.com/user-attachments/assets/7d59a2cd-e762-4805-a12c-f50cb20f2af4" />
 
 
 
@@ -78,7 +79,8 @@ In the 2020s, while illegal conversions have become a more citywide issue Staten
 
 <br>
 
-<img width="1182" height="505" alt="image" src="https://github.com/user-attachments/assets/c1e481bb-71ee-4f54-8582-e2eac44857b3" />
+<img width="1187" height="486" alt="image" src="https://github.com/user-attachments/assets/6ffc5d1b-a4da-4f4c-9ba2-f2195cfae0ec" />
+
 
 
 
