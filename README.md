@@ -10,7 +10,7 @@ The data for this project consist of New York City Department of Buildings ECB v
 ### Rising Tide of Hazardous Illegal Conversions Across Decades
 Hazardous illegal conversion violations have increased significantly over time, rising from 3,352 in the 1990s to 4,739 in the 2000s—a 41% increase—and then to 5,610 in the 2010s, a further 18% increase. Although the 2020s currently show 3,795 violations, this figure represents only about half the decade; on an annualized basis, the pace is actually higher than prior decades (roughly 35% higher per year than the 2010s). Taken together, the data points to a sustained and accelerating enforcement trend, reflecting both growing prevalence of illegal conversions and increased regulatory focus on hazardous conditions in more recent years.
 
-<img width="526" height="318" alt="image" src="https://github.com/user-attachments/assets/66a9fee1-2403-4d01-89a1-0bc72de29b3f" />
+<img width="526" height="318" alt="image" src="https://github.com/user-attachments/assets/66a9fee1-2403-4d01-89a1-0bc72de29b3f" align='center' />
 
 
 
