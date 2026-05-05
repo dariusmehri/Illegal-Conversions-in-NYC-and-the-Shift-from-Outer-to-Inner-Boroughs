@@ -5,7 +5,7 @@ Illegal conversions have become a critical issue in New York City due to their d
 
 Enforcement is largely complaint-driven, with the majority of cases identified through 311 reports, FDNY incident responses, and follow-up inspections by the Department of Buildings, meaning that many hazardous conditions may remain undetected until they generate complaints or emergencies [3].
 
-The data for this project consist of New York City Department of Buildings ECB violations, filtered for hazardous illegal conversions, and the Department of City Planning PLUTO dataset sourced from NYC Open Data and analyzed using Python, Power BI, and generative AI to clean and visualize insights [5][6].
+The data for this project consist of New York City Department of Buildings ECB violations, filtered for hazardous illegal conversions (where severity is class 1, class 2, or a hazardous violation), and the Department of City Planning PLUTO dataset sourced from NYC Open Data and analyzed using Python, Power BI, and generative AI to clean and visualize insights [5][6].
 
 ### Rising Tide of Hazardous Illegal Conversions Across Decades
 Hazardous illegal conversion violations have increased significantly over time, rising from 3,352 in the 1990s to 4,739 in the 2000s—a 41% increase—and then to 5,610 in the 2010s, a further 18% increase. Although the 2020s currently show 3,795 violations, this figure represents only about half the decade; on an annualized basis, the pace is actually higher than prior decades (roughly 35% higher per year than the 2010s). Taken together, the data points to a sustained and accelerating enforcement trend, reflecting both growing prevalence of illegal conversions and increased regulatory focus on hazardous conditions in more recent years.
