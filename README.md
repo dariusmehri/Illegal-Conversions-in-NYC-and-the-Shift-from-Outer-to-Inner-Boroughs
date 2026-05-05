@@ -21,7 +21,7 @@ Building age further reinforces this pattern, with approximately 45% of properti
 
 <br>
 
-<img width="1190" height="486" alt="image" src="https://github.com/user-attachments/assets/53e3ba28-4f8b-45d2-af90-1eb998793cd0" />
+<img width="1183" height="483" alt="image" src="https://github.com/user-attachments/assets/80fe756e-9310-44e5-82b6-0e7581aad260" />
 
 
 
@@ -38,7 +38,8 @@ Building age patterns further support this transition, with Queens showing a red
 
 <br>
 
-<img width="1371" height="630" alt="image" src="https://github.com/user-attachments/assets/b1e48674-8bbc-43ae-95ef-b7ef5600c29f" />
+<img width="1190" height="486" alt="image" src="https://github.com/user-attachments/assets/c573435b-7871-4874-919e-5e6ae8aadb0c" />
+
 
 
 
