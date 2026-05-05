@@ -7,6 +7,13 @@ Enforcement is largely complaint-driven, with the majority of cases identified t
 
 The data for this project consist of New York City Department of Buildings ECB violations, filtered for hazardous illegal conversions, and the Department of City Planning PLUTO dataset sourced from NYC Open Data and analyzed using Python, Power BI, and generative AI to clean and visualize insights [5][6].
 
+### Rising Tide of Hazardous Illegal Conversions Across Decades
+Hazardous illegal conversion violations have increased significantly over time, rising from 3,352 in the 1990s to 4,739 in the 2000s—a 41% increase—and then to 5,610 in the 2010s, a further 18% increase. Although the 2020s currently show 3,795 violations, this figure represents only about half the decade; on an annualized basis, the pace is actually higher than prior decades (roughly 35% higher per year than the 2010s). Taken together, the data points to a sustained and accelerating enforcement trend, reflecting both growing prevalence of illegal conversions and increased regulatory focus on hazardous conditions in more recent years.
+
+<img width="526" height="318" alt="image" src="https://github.com/user-attachments/assets/66a9fee1-2403-4d01-89a1-0bc72de29b3f" />
+
+
+
 ### The Shift from Outer to Inner Boroughs
 Illegal conversion violations shifted from outer boroughs like Queens in the 1990s to inner boroughs like Brooklyn and Manhattan by the 2010s due to rising housing costs, gentrification, and stronger enforcement in dense areas. Earlier, conversions were easier in low-density neighborhoods with one- and two-family homes, while later they became more common in high-demand areas where landlords had greater financial incentive to create additional units within existing buildings. At the same time, agencies like the New York City Department of Buildings increasingly focused on higher-risk, higher-density environments, making illegal conversions both more prevalent and more visible in the inner boroughs [4].
 
